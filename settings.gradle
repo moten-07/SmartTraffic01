@@ -1,0 +1,2 @@
+rootProject.name = "SmartTraffic0925"
+include ':app'

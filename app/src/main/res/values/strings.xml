@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">智能交通01</string>
+	<string name="navigation_drawer_open">打开导航抽屉</string>
+	<string name="navigation_drawer_close">关闭导航抽屉</string>
+	<string name="nav_header_title">头部标题</string>
+	<string name="nav_header_subtitle">头部副标题</string>
+	<string name="nav_header_desc">导航标题</string>
+	<string name="action_settings">设置</string>
+
+	<string name="menu_home">主页</string>
+	<string name="menu_etc">ETC充值</string>
+	<string name="menu_traffic_light">红绿灯管理</string>
+	<string name="login">登录</string>
+	<string name="humidity">湿度：%d</string>
+	<string name="pm2P5">PM2.5：%d</string>
+	<string name="temperature">%d℃</string>
+	<string name="no_recharge">暂无充值记录</string>
+	<string name="more">更多</string>
+	<string name="title_etc">小车ETC充值</string>
+	<string name="off">关闭</string>
+	<string name="dialog_title">充值记录</string>
+	<string name="menu_data">数据分析</string>
+	<string name="select_road_asc">路口升序</string>
+	<string name="select_red_asc">红灯升序</string>
+	<string name="select_yellow_asc">黄灯升序</string>
+	<string name="select_green_asc">绿灯升序</string>
+	<string name="select_road_desc">路口降序</string>
+	<string name="select_red_desc">红灯降序</string>
+	<string name="select_yellow_desc">黄灯降序</string>
+	<string name="select_green_desc">绿灯降序</string>
+	<string name="login_name">用户名</string>
+	<string name="login_pass">密码</string>
+	<string name="login_button1">登录</string>
+	<string name="login_button2">注册</string>
+	<string name="login_check1">记住密码</string>
+	<string name="login_check2">自动登录</string>
+</resources>

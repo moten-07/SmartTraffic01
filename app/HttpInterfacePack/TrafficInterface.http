@@ -1,0 +1,33 @@
+POST http://localhost:8080/transport_service/road_state
+Content-Type: application/json
+
+{
+  "roadId": 2,
+  "userId": "user1",
+  "list": {
+    "a": 1
+  }
+}
+
+
+###
+
+POST http://localhost:8080/transport_service/car_recharge
+Content-Type: application/json
+
+{
+  "carId": "1号",
+  "money": 100,
+  "userName": "user1"
+}
+
+
+###
+
+POST http://localhost:8080/transport_service/traffic_light
+Content-Type: application/json
+
+{
+  "trafficLightId": 3,
+  "userId": "user1"
+}
